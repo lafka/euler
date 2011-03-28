@@ -2,12 +2,11 @@
 
 main()
 {
-	int index;
-	int legrandtotal;
+	int index, legrandtotal;
 	
 	legrandtotal = 0;
 
-	for ( index = 0; index <= 1000; index++ )
+	for ( index = 0; index < 1000; index++ )
 	{
 		if ( (0 == index % 3) || (0 == index % 5) )
 		{

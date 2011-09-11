@@ -25,6 +25,6 @@ etc
 	D            Erlang/Eiffel    F#
 	Go           Haskell          Io
 	Java         Lua              Python
-	R            SuperCollider    Tcl
+	R            Scala            Tcl
 	Vala
 
